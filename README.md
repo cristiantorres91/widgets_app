@@ -1,3 +1,3 @@
 # widgets_app
 
-A new Flutter project.
+Curso Fernando Herrera Flutter 2023
